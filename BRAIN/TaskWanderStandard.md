@@ -13,6 +13,10 @@ Makes ped walk around the area.
 set p1 to 10.0f and p2 to 10 if you want the ped to walk anywhere without a duration.  
 ```
 
+```
+^^ both of the p1 and p2 should be float. Using float and int does nothing for me...  
+```
+
 ## Parameters
 * **ped**: 
 * **p1**: 
